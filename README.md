@@ -34,14 +34,6 @@ Data used: **Awake (25,770 images)** and **Sleepy (25,167 images)**, extracted f
 The model is deployed using **Gradio**, providing an interactive interface for real-time eye state detection.  
 <img width="1874" height="750" alt="image" src="https://github.com/user-attachments/assets/19a82c1e-e5bf-4b2e-b0a4-6af779b52734" />
 
-<<<<<<< HEAD
-#### 5. Possible Results
- Eyes open  
-
- One eye closed and the other open  
- Eyes closed  
- No eyes detected
-=======
 #### 5. Possible Cases
 a. Eyes open (no alert)  
 ![eyes_open](https://github.com/user-attachments/assets/307e8237-6e9b-4958-b85c-b4df57ffaa28)
@@ -54,6 +46,5 @@ c. Eyes closed (alert)
 
 d. No eyes detected (alert)  
 ![no_eyes](https://github.com/user-attachments/assets/48c4f8fd-7a69-440b-ac46-b64806009889)
->>>>>>> 4614bae5f2a216636e8ae77edf0ee3e8aaf7f75b
 
 Yassine DARIF | INSEA - 2025
