@@ -7,9 +7,9 @@ import winsound
 import os
 
 # Configuration
-IMG_SIZE = 64
+IMG_SIZE        = 64
 ALERT_THRESHOLD = 3  
-MODEL_PATH = "eye_state_model.keras"
+MODEL_PATH      = "dl-model/eye_state_model.keras"
 
 # Charger le modèle si disponible
 if os.path.exists(MODEL_PATH):
