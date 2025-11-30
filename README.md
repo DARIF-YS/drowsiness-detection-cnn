@@ -39,7 +39,7 @@ The model is deployed using **Gradio**, providing an interactive interface for r
 
 #### 5. Possible Results
  Eyes open  
- 
+
  One eye closed and the other open  
  Eyes closed  
  No eyes detected
