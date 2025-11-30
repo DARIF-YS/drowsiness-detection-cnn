@@ -5,17 +5,17 @@ This project aims to develop an intelligent system capable of accurately detecti
 #### 1. Project Structure
 <pre>
 .
-├── .venv/                   # Python virtual environment
-├── dataset/                 # Folder containing the datasets
-│   ├── awake/               # Images of open eyes
-│   └── sleepy/              # Images of closed eyes
-├── dl-model/                # Deep Learning model files
-│   ├── eye_state_model.keras # Trained model
-│   ├── test_img_open_close.jpg # Test image
-│   └── train_model.ipynb    # Notebook for training
-├── app.py                   # Gradio deployment
-├── README.md                # Project documentation
-└── requirements.txt         # Python dependencies
+├── .venv/                   
+├── dataset/                
+│   ├── awake/               
+│   └── sleepy/              
+├── dl-model/                
+│   ├── eye_state_model.keras 
+│   ├── test_img_open_close.jpg 
+│   └── train_model.ipynb    
+├── app.py                   
+├── README.md                
+└── requirements.txt         
 </pre>
 
 #### 2. Dataset
